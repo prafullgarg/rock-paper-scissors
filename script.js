@@ -37,9 +37,15 @@ function playRound(playerChoice,computerChoice){
 
 }
 
-console.log(playRound(playerChoice, computerChoice));
+function game(){
+	console.log(playRound)
+	console.log(playRound)
+	console.log(playRound)
+console.log(playRound)
+console.log(playRound)
 
 
+}
 
 }catch(error){
         console.log(error.name)
