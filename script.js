@@ -38,11 +38,11 @@ function playRound(playerChoice,computerChoice){
 }
 
 function game(){
-	console.log(playRound)
-	console.log(playRound)
-	console.log(playRound)
-console.log(playRound)
-console.log(playRound)
+	console.log(playRound(playerChoice, computerChoice))
+	console.log(playRound(playerChoice, computerChoice))
+	console.log(playRound(playerChoice, computerChoice))
+console.log(playRound(playerChoice, computerChoice))
+console.log(playRound(playerChoice, computerChoice))
 
 
 }
@@ -54,3 +54,5 @@ console.log(playRound)
 }
 
 
+
+game();
